@@ -1,1 +1,23 @@
+# NetBeans project build folders
+build/
+dist/
+
+# NetBeans project private config
+nbproject/private/
+
+# Compiled Java class files
+*.class
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files (optional — uncomment if not needed)
+# *.iml
+# .idea/
 
